@@ -1,6 +1,6 @@
-# Output-Analysis
+# Explanation
 
-Simulation Output Analysis Methods
+# Simulation Output Analysis Methods
 
 This repository demonstrates three common simulation output analysis techniques used in simulation modeling and performance analysis.
 
